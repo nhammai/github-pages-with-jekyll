@@ -1,5 +1,5 @@
 ---
-title: My best blog post
+title: "My best blog post"
 date: 2022-06-03
 
 ---
